@@ -1,3 +1,4 @@
 gitの練習です。
 git add
 git add git commit
+git diff
